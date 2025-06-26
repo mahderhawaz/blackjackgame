@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #006400;
+    color: #fff;
+}
+button {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+#balance-el, #stats-el {
+    font-weight: bold;
+    margin: 10px 0;
+}
+#bet-input {
+    width: 60px;
+    font-size: 16px;
+    text-align: right;
+}
